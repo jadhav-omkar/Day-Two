@@ -1,0 +1,10 @@
+body{
+    background-color: #252525;
+}
+h1{
+    border: 1px #fff solid; 
+    margin: 0px auto;
+    text-align: center;
+    color: teal;
+    letter-spacing: 3px;
+}
